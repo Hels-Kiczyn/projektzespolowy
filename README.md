@@ -15,8 +15,8 @@ temat: Inteligentna książka kucharska
    -  wyszukiwanie przepisów;
    -  wyszukiwanie potraw przez podanie posiadanych skladnikow;
    -  aplikacja mobilna, w której wyswietlane sa brakujace skladniki do przepisu;
-  grupa docelowa:
+grupa docelowa:
    - brak konkretnych odbiorców, do wszystkich;
-  proponowane technologie:
+proponowane technologie:
    - Java;
     
