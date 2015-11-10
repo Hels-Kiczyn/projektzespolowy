@@ -9,14 +9,14 @@ sklad grupy:
 
 temat: Inteligentna książka kucharska
   
-  zakres funkcjonalnosci:
+  1. zakres funkcjonalnosci:
    - logowanie, tworzenie nowego konta;
    -  dodawanie przepisów;
    -  wyszukiwanie przepisów;
    -  wyszukiwanie potraw przez podanie posiadanych skladnikow;
    -  aplikacja mobilna, w której wyswietlane sa brakujace skladniki do przepisu;
-grupa docelowa:
+  2. grupa docelowa:
    - brak konkretnych odbiorców, do wszystkich;
-proponowane technologie:
+  3. proponowane technologie:
    - Java;
     
