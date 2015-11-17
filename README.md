@@ -1,13 +1,18 @@
-# Hels Kiczyn
+#WiseCook
+
 Inteligentna książka kucharska
 
-sklad grupy:
+![projekt](http://zapodaj.net/images/ed029b82c2d29.png) 
+
+
+
+Skład grupy:
   - Cendrowski Paweł
   - Godziuk Jacek
   - Tkaczyk Michał
   - Tymiński Karol
 
-temat: Inteligentna książka kucharska
+Temat: Inteligentna książka kucharska
   
   1. zakres funkcjonalności:
    - logowanie, tworzenie nowego konta;
