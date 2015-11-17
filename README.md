@@ -20,3 +20,8 @@ temat: Inteligentna książka kucharska
   3. proponowane technologie:
    - Java;
     
+
+Diagram przypadków użycia: 
+
+![projekt](https://scontent-arn2-1.xx.fbcdn.net/hphotos-xal1/v/t35.0-12/12268417_998684523527563_1154343613_o.jpg?oh=abcb73cac05efaeb30dc824e006599e6&oe=564DA59B)
+
