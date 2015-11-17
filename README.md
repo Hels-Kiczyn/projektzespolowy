@@ -1,4 +1,4 @@
-# projektzespolowy
+# Hels Kiczyn
 Inteligentna książka kucharska
 
 sklad grupy:
