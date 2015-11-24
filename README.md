@@ -2,7 +2,7 @@
 
 Inteligentna książka kucharska
 
-![projekt](http://zapodaj.net/images/ed029b82c2d29.png) 
+![projekt](https://scontent-arn2-1.xx.fbcdn.net/hphotos-xpl1/v/t34.0-12/12285893_1001787743217241_493823330_n.jpg?oh=2d0358a772284dfb6a364a5029501949&oe=5656AB23) 
 
 
 
