@@ -57,3 +57,6 @@
 6. Ograniczenia
 
   Aplikacja łączy się z bazą danych, w której przechowywane są przepisy i składniki, z której użytkownicy mogą je tylko odczytywać,     wyszukiwać. Dodawanie nowych przepisów, składników do bazy może wykonać administrator. Proponowane nowe składniki lub przepisy przez   użytkownika nie trafiają bezpośrednio do bazy tylko do administratora.
+
+7.  Wizualizacja bazy danych
+  ![baza](http://zapodaj.net/images/3a97199a83a6f.png)
