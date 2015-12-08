@@ -26,7 +26,3 @@ Temat: Inteligentna książka kucharska
    - Platforma Android - język Java;
     
 
-Diagram przypadków użycia: 
-
-![projekt](http://zapodaj.net/images/d45197041cb17.jpg)
-
