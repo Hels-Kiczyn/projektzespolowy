@@ -1,6 +1,6 @@
 #Wizja Systemu oraz Wzbogacony Wizerunek
 
-http://zapodaj.net/images/e84e02031a53a.jpg
+![baza](http://zapodaj.net/images/e84e02031a53a.jpg)
 
 1. Opis:
   
