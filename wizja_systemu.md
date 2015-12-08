@@ -51,6 +51,12 @@
   - zarządzać bazą przepisów
   - zarządzać bazą składników
   - zajmować się akceptowaniem ocen przepisów wystawianych przez zwykłego użytkownika
+  
+  
+   
+  ######Diagram przypadków użycia:
+
+  ![diagramprzypadkowuzycia](http://zapodaj.net/images/d45197041cb17.jpg)
 
 
 5. Wymagania jakościowe
