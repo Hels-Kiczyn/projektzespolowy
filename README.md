@@ -1,8 +1,4 @@
-#WiseCook
-
-Inteligentna książka kucharska
-
-![projekt](http://zapodaj.net/images/66d585a072169.png) 
+![projekt](http://zapodaj.net/images/56306e3492ca0.png) 
 
 
 
