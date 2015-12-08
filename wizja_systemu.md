@@ -1,4 +1,7 @@
 #Wizja Systemu oraz Wzbogacony Wizerunek
+
+http://zapodaj.net/images/e84e02031a53a.jpg
+
 1. Opis:
   
   Inteligentna książka kucharska to aplikacja, która ma być pomocna w przygotowywaniu dań w codziennym życiu. Głównym założeniem jest   wybranie z listy dostępnych w bazie składników, jakie posiada w domu użytkownik aplikacji, a następnie system wyszukuje potrawy       jakie można sporządzić z wybranych składników. 
