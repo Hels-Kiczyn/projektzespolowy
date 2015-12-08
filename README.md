@@ -10,15 +10,18 @@ Skład grupy:
 
 Temat: Inteligentna książka kucharska
   
-  1. zakres funkcjonalności:
-   - logowanie, tworzenie nowego konta;
-   -  dodawanie przepisów;
-   -  wyszukiwanie przepisów;
-   -  wyszukiwanie potraw przez podanie posiadanych składników;
-   -  aplikacja mobilna, w której wyświetlane są brakujące składniki do przepisu;
-  2. grupa docelowa:
+  1. Zakres funkcjonalności:
+   -  wyszukiwanie, dodawanie i przeglądanie przepisów;
+   -  dopasowanie potraw przez zaznaczenie posiadanych składników;
+   -  proponowanie nowych składników i przepisów oraz zmian w aplikacji (zakładka 'kontakt');
+   -  tworzenie nowego konta i logowanie;
+   -  ocena przepisów;
+   -  dodawanie przepisów do ulubionych;
+  2. Grupa docelowa:
    - brak konkretnych odbiorców, do wszystkich;
-  3. proponowane technologie:
-   - Platforma Android - język Java;
+  3. Proponowane technologie:
+   - Platforma Android;
+   - Java;
+   - MySQL;
     
 
