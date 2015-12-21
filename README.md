@@ -1,4 +1,4 @@
-![projekt](http://zapodaj.net/images/56306e3492ca0.png) 
+![projekt](http://pics.tinypic.pl/i/00738/2m8cyxw1iand.png) 
 
 
 
