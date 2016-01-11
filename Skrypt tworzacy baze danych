@@ -26,7 +26,7 @@ CREATE TABLE skladnik (
           FOREIGN KEY fk_przepis1_id(przepis_id)
     	 REFERENCES przepis(id_przepis)
     	 ON DELETE CASCADE
-);
+);f
 
 CREATE TABLE ocena (
          id_ocena INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
