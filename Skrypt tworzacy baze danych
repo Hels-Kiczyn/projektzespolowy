@@ -15,7 +15,7 @@ CREATE TABLE przepis (
          nazwa VARCHAR(20),
          tresc VARCHAR(200),
          zdjecie VARCHAR(50),
-         sredniaocena INT
+         sredniaocena DOUBLE
 );
 
 
