@@ -20,4 +20,8 @@ public class MainActivity extends AppCompatActivity {
     public void dodaj(View view) {
         startActivity(new Intent(getApplicationContext(), DodajActivity.class));
     }
+
+    public void ustal(View view) {
+        startActivity(new Intent(getApplicationContext(), UstalActivity.class));
+    }
 }

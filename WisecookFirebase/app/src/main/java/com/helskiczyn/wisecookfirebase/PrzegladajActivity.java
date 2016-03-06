@@ -30,7 +30,7 @@ public class PrzegladajActivity extends AppCompatActivity implements View.OnClic
     ArrayList<String> displayArray;
     ArrayList<String> keysArray;
     ListView listView;
-    Firebase myFirebaseRef;
+    Firebase przepisRef;
     String clickedKey;
 
     @Override
@@ -48,8 +48,8 @@ public class PrzegladajActivity extends AppCompatActivity implements View.OnClic
         listView.setOnItemClickListener(itemClickListener);
 
         Firebase.setAndroidContext(this);
-        myFirebaseRef = new Firebase("https://wisecook.firebaseio.com/Przepis");
-        myFirebaseRef.addChildEventListener(childEventListener);
+        przepisRef = new Firebase("https://wisecook.firebaseio.com/Przepis");
+        przepisRef.addChildEventListener(childEventListener);
     }
 
     ChildEventListener childEventListener = new ChildEventListener() {
