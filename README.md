@@ -1,4 +1,4 @@
-![projekt](http://pics.tinypic.pl/i/00738/2m8cyxw1iand.png) 
+![projekt](/) 
 
 
 
@@ -22,6 +22,6 @@ Temat: Inteligentna książka kucharska
   3. Proponowane technologie:
    - Platforma Android;
    - Java;
-   - MySQL;
+   - Firebase;
     
 
