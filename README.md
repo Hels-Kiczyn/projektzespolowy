@@ -1,4 +1,4 @@
-![projekt](/http://www.wisecook.esy.es/logo.jpg) 
+![projekt](http://www.wisecook.esy.es/logo.jpg) 
 
 
 
