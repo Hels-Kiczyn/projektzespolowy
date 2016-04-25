@@ -1,4 +1,28 @@
 {
+  "ListaZakupow" : {
+    "f1ed3e10-1599-4398-961f-2a2321c57023" : {
+      "kostka knorr" : "2 sztuki",
+      "kura" : "1 sztuka",
+      "liść laurowy" : "2 sztuki",
+      "makaron" : "200 g",
+      "marchewka" : "2 sztuki",
+      "pietruszka" : "1 sztuka",
+      "por" : "1 sztuka",
+      "seler" : "1 sztuka",
+      "ziele angielskie" : "2 sztuki"
+    }
+  },
+  "PropozycjePrzepisow" : {
+    "Koktajlowe szaszlyki" : {
+      "autor" : "p.cendrowski@interia.pl",
+      "tresc" : "1.Plastry boczku posyp przyprawa Knorr\n2.Na patyki nabij na przemian boczek oraz wisnie.\n3.W rondelku przygotuj sos sweet chili\nSkladniki\nboczek\nketchup\nwoda\ncukier\nwisnie\nchili"
+    },
+    "Kotlety Mielone" : {
+      "autor" : "bec4effa-11f7-46a2-b454-ad8e73a3d937",
+      "tresc" : "zmielic mieso i ulepic kotlety"
+    }
+  },
+  
   "Przepis" : {
     "Pieczony kurczak" : {
       "nazwa" : "Pieczony kurczak z ziemniakami",
@@ -83,250 +107,274 @@
     
    
   },
+  
   "PrzepisMaSkladnik" : {
-    "Pieczony kurczak" : {
-      "kurczak" : "1 duza sztuka",
-      "oregano" : "1 łyżeczka",
-      "papryka" : "1 łyżeczka",
-      "olej" : "2 łyżki",
-      "ziemniaki" : "800 g",
-      "przyprawa Knorr" : "4 łyżeczki"
-    },
-    "Kurczak po indyjsku" : {
-      "pierś kurczaka" : "500 g",
-      "cukinia" : "1 sztuka",
-      "papryka" : "1 sztuka",
-      "cebula" : "1 sztuka",
-      "ciecierzyca" : "1 opakowanie",
-      "miód" : "1 łyżka",
-      "sos sojowy" : "1 łyżka",
-      "pietruszka" : "0.5 pęczków",
-      "olej" : "1 łyżka",
-      "woda" : "350 ml",
-      "Fix Knorr" : "1 opakowanie"
-    },
     "Befsztyk z warzywami" : {
-      "polędwica wołowa" : "500 g",
-      "cukinia" : "1 sztuka",
       "bakłażan" : "1 sztuka",
       "cebula" : "1 sztuka",
-      "papryka" : "1 sztuka",
-      "ziemniaki" : "500 g",
-      "pieprz" : "10 g",
-      "oregano" : "2 łyżki",
-      "woda" : "1 l",
-      "pietruszka" : "1 g",
+      "cukinia" : "1 sztuka",
       "olej" : "150 m",
-      "sos Knorr" : "1 opakowanie"
-    },
-    "Pieczona karkówka" : {
-      "karkówka" : "600 g",
-      "mięso mielone" : "200 g",
-      "pomidory" : "200 g",
-      "oliwki" : "2 łyżki",
-      "czosnek" : "1 sztuka",
-      "oliwa z oliwek" : "3 łyżki",
-      "przyprawa Knorr" : "3 łyżki"
+      "oregano" : "2 łyżki",
+      "papryka" : "1 sztuka",
+      "pieprz" : "10 g",
+      "pietruszka" : "1 g",
+      "polędwica wołowa" : "500 g",
+      "sos Knorr" : "1 opakowanie",
+      "woda" : "1 l",
+      "ziemniaki" : "500 g"
     },
     "Karp w cieście" : {
-      "karp" : "1 kg",
+      "Przyprawa Knorr" : "2 łyżki",
       "cebula" : "2 sztuki",
-      "orzechy włoskie" : "100 g",
+      "karp" : "1 kg",
+      "koperek" : "2 łyżki",
       "mąka" : "3 szklanki",
       "olej" : "1 szklanka",
-      "koperek" : "2 łyżki",
-      "Przyprawa Knorr" : "2 łyżki"
+      "orzechy włoskie" : "100 g"
     },
-    "Spaghetti Bolognese" : {
-      "mięso mielone" : "500 g",
-      "makaron spaghetti" : "300 g",
-      "olej" : "2 łyżki",
-      "pomidory" : "400 g",
-      "woda" : "100 ml",
-      "Przyprawa Knorr" : "1 opakowanie"
+    "Kurczak po indyjsku" : {
+      "Fix Knorr" : "1 opakowanie",
+      "cebula" : "1 sztuka",
+      "ciecierzyca" : "1 opakowanie",
+      "cukinia" : "1 sztuka",
+      "miód" : "1 łyżka",
+      "olej" : "1 łyżka",
+      "papryka" : "1 sztuka",
+      "pierś kurczaka" : "500 g",
+      "pietruszka" : "0.5 pęczków",
+      "sos sojowy" : "1 łyżka",
+      "woda" : "350 ml"
     },
     "Naleśniki z wiśniami" : {
-      "mąka" : "1 szklanka",
-      "mleko" : "1 szklanka",
-      "jajka" : "2 sztuki",
+      "cukier" : "80 g",
       "cukier waniliowy" : "1 łyżka",
+      "cynamon" : "1 szczypta",
+      "czerwone wino" : "300 ml",
+      "jajka" : "2 sztuki",
+      "limonka" : "1 sztuka",
+      "mleko" : "1 szklanka",
+      "mąka" : "1 szklanka",
+      "mąka ziemniaczana" : "1 łyżeczka",
       "olej" : "30 ml",
       "wiśnie" : "200 g",
-      "cynamon" : "1 szczypta",
-      "cukier" : "80 g",
-      "czerwone wino" : "300 ml",
-      "mąka ziemniaczana" : "1 łyżeczka",
-      "limonka" : "1 sztuka",
       "woda" : "2 łyżki"
     },
-    "Sałatka z awokado" : {
-      "sałata" : "1 opakowanie",
-      "ser pleśniowy" : "100 g",
-      "woda" : "2 łyżki",
-      "awokado" : "2 sztuki",
-      "orzeszki pinii" : "50 g",
-      "cytryna" : "0.5 sztuk",
+    "Pieczona karkówka" : {
+      "czosnek" : "1 sztuka",
+      "karkówka" : "600 g",
+      "mięso mielone" : "200 g",
       "oliwa z oliwek" : "3 łyżki",
-      "grzanki" : "20 g",
-      "ser żółty" : "1 łyżka",
-      "sos sałatkowy Cezar" : "1 łyżeczka",
-      "majonez" : "3 łyżki"
+      "oliwki" : "2 łyżki",
+      "pomidory" : "200 g",
+      "przyprawa Knorr" : "3 łyżki"
     },
-    "Rosół" : {
-      "kura" : "1 sztuka",
-      "makaron" : "200 g",
-      "marchewka" : "2 sztuki",
-      "cebula" : "1 sztuka",
-      "pietruszka" : "1 sztuka",
-      "seler" : "1 sztuka",
-      "por" : "1 sztuka",
-      "liść laurowy" : "2 sztuki",
-      "ziele angielskie" : "2 sztuki",
-      "kostka knorr" : "2 sztuki"
+    "Pieczony kurczak" : {
+      "kurczak" : "1 duza sztuka",
+      "olej" : "2 łyżki",
+      "oregano" : "1 łyżeczka",
+      "papryka" : "1 łyżeczka",
+      "przyprawa Knorr" : "4 łyżeczki",
+      "ziemniaki" : "800 g"
     },
     "Pizza domowa" : {
-      "pieczarki" : "5 sztuk",
-      "szynka" : "4 plastry",
-      "papryka" : "0.5 sztuk",
-      "oliwki zielone" : "dowolnie",
-      "pieprz" : "szczypta",
-      "ser mozzarella" : "dowolnie",
-      "mąka" : "1 kg",
-      "woda" : "500 ml",
+      "cukier" : "1 łyżeczka",
       "drożdże" : "8 g",
       "koncentrat pomidorowy" : "100 g",
-      "cukier" : "1 łyżeczka",
+      "mąka" : "1 kg",
+      "oliwki zielone" : "dowolnie",
+      "oregano" : "2 łyżeczki",
+      "papryka" : "0.5 sztuk",
+      "pieczarki" : "5 sztuk",
+      "pieprz" : "szczypta",
+      "ser mozzarella" : "dowolnie",
+      "szynka" : "4 plastry",
       "sól" : "1 łyżeczka",
-      "oregano" : "2 łyżeczki"
+      "woda" : "500 ml"
+    },
+    "Rosół" : {
+      "cebula" : "1 sztuka",
+      "kostka knorr" : "2 sztuki",
+      "kura" : "1 sztuka",
+      "liść laurowy" : "2 sztuki",
+      "makaron" : "200 g",
+      "marchewka" : "2 sztuki",
+      "pietruszka" : "1 sztuka",
+      "por" : "1 sztuka",
+      "seler" : "1 sztuka",
+      "ziele angielskie" : "2 sztuki"
+    },
+    "Sałatka z awokado" : {
+      "awokado" : "2 sztuki",
+      "cytryna" : "0.5 sztuk",
+      "grzanki" : "20 g",
+      "majonez" : "3 łyżki",
+      "oliwa z oliwek" : "3 łyżki",
+      "orzeszki pinii" : "50 g",
+      "sałata" : "1 opakowanie",
+      "ser pleśniowy" : "100 g",
+      "ser żółty" : "1 łyżka",
+      "sos sałatkowy Cezar" : "1 łyżeczka",
+      "woda" : "2 łyżki"
+    },
+    "Spaghetti Bolognese" : {
+      "Przyprawa Knorr" : "1 opakowanie",
+      "makaron spaghetti" : "300 g",
+      "mięso mielone" : "500 g",
+      "olej" : "2 łyżki",
+      "pomidory" : "400 g",
+      "woda" : "100 ml"
     }
-    
   },
   "Skladnik" : {
-    "kurczak" : {
-      "nazwa" : "kurczak"
-    },
-    "ziemniaki" : {
-      "nazwa" : "ziemniaki"
-    },
-    "papryka" : {
-      "nazwa" : "papryka"
-    },
-    "oregano" : {
-      "nazwa" : "oregano"
-    },
-    "olej" : {
-      "nazwa" : "olej"
-    },
-    "pierś kurczaka" : {
-      "nazwa" : "pierś kurczaka"
-    },
-    "cukinia" : {
-      "nazwa" : "cukinia"
-    },
-    "cebula" : {
-      "nazwa" : "cebula"
-    },
-    "miód" : {
-      "nazwa" : "miód"
-    },
-    "sos sojowy" : {
-      "nazwa" : "sos sojowy"
-    },
-    "ciecierzyca" : {
-      "nazwa" : "ciecierzyca z puszki"
-    },
-    "pietruszka" : {
-      "nazwa" : "pietruszka"
-    },
-    "woda" : {
-      "nazwa" : "woda"
-    },
-    "polędwica wołowa" : {
-      "nazwa" : "polędwica wołowa"
+    "awokado" : {
+      "nazwa" : "awokado"
     },
     "bakłażan" : {
       "nazwa" : "bakłażan"
     },
-    "pieprz" : {
-      "nazwa" : "pieprz"
+    "cebula" : {
+      "nazwa" : "cebula"
     },
-    "karkówka" : {
-      "nazwa" : "karkówka"
-    },
-    "mięso mielone" : {
-      "nazwa" : "mięso mielone"
-    },
-    "pomidory" : {
-      "nazwa" : "pieprz"
-    },
-    "oliwki" : {
-      "nazwa" : "oliwki"
-    },
-    "czosnek" : {
-      "nazwa" : "czosnek"
-    },
-    "oliwa z oliwek" : {
-      "nazwa" : "oliwa z oliwek"
-    },
-    "karp" : {
-      "nazwa" : "karp"
-    },
-    "orzechy włoskie" : {
-      "nazwa" : "orzechy włoskie"
-    },
-    "mąka" : {
-      "nazwa" : "mąka"
-    },
-    "koperek" : {
-      "nazwa" : "koperek"
-    },
-    "makaron spaghetti" : {
-      "nazwa" : "makaron spaghetti"
-    },
-    "mleko" : {
-      "nazwa" : "mleko"
-    },
-    "jajka" : {
-      "nazwa" : "jajka"
-    },
-    "cukier waniliowy" : {
-      "nazwa" : "cukier waniliowy"
-    },
-    "wiśnie" : {
-      "nazwa" : "wiśnie"
-    },
-    "cynamon" : {
-      "nazwa" : "cynamon"
+    "ciecierzyca" : {
+      "nazwa" : "ciecierzyca z puszki"
     },
     "cukier" : {
       "nazwa" : "cukier"
     },
-    "czerwone wino" : {
-      "nazwa" : "czerwone wino"
+    "cukier waniliowy" : {
+      "nazwa" : "cukier waniliowy"
     },
-    "mąka ziemniaczana" : {
-      "nazwa" : "mąka ziemniaczana"
+    "cukinia" : {
+      "nazwa" : "cukinia"
     },
-    "limonka" : {
-      "nazwa" : "limonka"
-    },
-    "sałata" : {
-      "nazwa" : "sałata"
-    },
-    "ser pleśniowy" : {
-      "nazwa" : "ser pleśniowy"
-    },
-    "awokado" : {
-      "nazwa" : "awokado"
-    },
-    "orzeszki pinii" : {
-      "nazwa" : "orzeszki pinii"
+    "cynamon" : {
+      "nazwa" : "cynamon"
     },
     "cytryna" : {
       "nazwa" : "cytryna"
     },
+    "czerwone wino" : {
+      "nazwa" : "czerwone wino"
+    },
+    "czosnek" : {
+      "nazwa" : "czosnek"
+    },
+    "drożdże" : {
+      "nazwa" : "drożdże"
+    },
     "grzanki" : {
       "nazwa" : "grzanki"
+    },
+    "jajka" : {
+      "nazwa" : "jajka"
+    },
+    "karkówka" : {
+      "nazwa" : "karkówka"
+    },
+    "karp" : {
+      "nazwa" : "karp"
+    },
+    "koncentrat pomidorowy" : {
+      "nazwa" : "koncentrat pomidorowy"
+    },
+    "koperek" : {
+      "nazwa" : "koperek"
+    },
+    "kura" : {
+      "nazwa" : "kura"
+    },
+    "kurczak" : {
+      "nazwa" : "kurczak"
+    },
+    "limonka" : {
+      "nazwa" : "limonka"
+    },
+    "liść laurowy" : {
+      "nazwa" : "liść laurowy"
+    },
+    "majonez" : {
+      "nazwa" : "majonez"
+    },
+    "makaron" : {
+      "nazwa" : "makaron"
+    },
+    "makaron spaghetti" : {
+      "nazwa" : "makaron spaghetti"
+    },
+    "marchewka" : {
+      "nazwa" : "marchewka"
+    },
+    "miód" : {
+      "nazwa" : "miód"
+    },
+    "mięso mielone" : {
+      "nazwa" : "mięso mielone"
+    },
+    "mleko" : {
+      "nazwa" : "mleko"
+    },
+    "mąka" : {
+      "nazwa" : "mąka"
+    },
+    "mąka ziemniaczana" : {
+      "nazwa" : "mąka ziemniaczana"
+    },
+    "olej" : {
+      "nazwa" : "olej"
+    },
+    "oliwa z oliwek" : {
+      "nazwa" : "oliwa z oliwek"
+    },
+    "oliwki" : {
+      "nazwa" : "oliwki"
+    },
+    "oliwki zielone" : {
+      "nazwa" : "oliwki zielone"
+    },
+    "oregano" : {
+      "nazwa" : "oregano"
+    },
+    "orzechy włoskie" : {
+      "nazwa" : "orzechy włoskie"
+    },
+    "orzeszki pinii" : {
+      "nazwa" : "orzeszki pinii"
+    },
+    "papryka" : {
+      "nazwa" : "papryka"
+    },
+    "pieczarki" : {
+      "nazwa" : "pieczarki"
+    },
+    "pieprz" : {
+      "nazwa" : "pieprz"
+    },
+    "pierś kurczaka" : {
+      "nazwa" : "pierś kurczaka"
+    },
+    "pietruszka" : {
+      "nazwa" : "pietruszka"
+    },
+    "polędwica wołowa" : {
+      "nazwa" : "polędwica wołowa"
+    },
+    "pomidory" : {
+      "nazwa" : "pieprz"
+    },
+    "por" : {
+      "nazwa" : "por"
+    },
+    "sałata" : {
+      "nazwa" : "sałata"
+    },
+    "seler" : {
+      "nazwa" : "seler"
+    },
+    "ser mozzarella" : {
+      "nazwa" : "ser mozzarella"
+    },
+    "ser pleśniowy" : {
+      "nazwa" : "ser pleśniowy"
     },
     "ser żółty" : {
       "nazwa" : "ser żółty"
@@ -334,62 +382,23 @@
     "sos Cezar" : {
       "nazwa" : "sos Cezar"
     },
-    "majonez" : {
-      "nazwa" : "majonez"
-    },
-    "kura" : {
-      "nazwa" : "kura"
-    },
-    "makaron" : {
-      "nazwa" : "makaron"
-    },
-    "marchewka" : {
-      "nazwa" : "marchewka"
-    },
-    "seler" : {
-      "nazwa" : "seler"
-    },
-    "por" : {
-      "nazwa" : "por"
-    },
-    "liść laurowy" : {
-      "nazwa" : "liść laurowy"
-    },
-    "ziele angielskie" : {
-      "nazwa" : "ziele angielskie"
-    },
-    "pieczarki" : {
-      "nazwa" : "pieczarki"
+    "sos sojowy" : {
+      "nazwa" : "sos sojowy"
     },
     "szynka" : {
       "nazwa" : "szynka"
     },
-    "oliwki zielone" : {
-      "nazwa" : "oliwki zielone"
+    "wiśnie" : {
+      "nazwa" : "wiśnie"
     },
-    "ser mozzarella" : {
-      "nazwa" : "ser mozzarella"
+    "woda" : {
+      "nazwa" : "woda"
     },
-    "drożdże" : {
-      "nazwa" : "drożdże"
+    "ziele angielskie" : {
+      "nazwa" : "ziele angielskie"
     },
-    "koncentrat pomidorowy" : {
-      "nazwa" : "koncentrat pomidorowy"
-    }
-  },
-  "PropozycjePrzepisow" : {
-    "Kotlety Mielone" : {
-      "autor" : "bec4effa-11f7-46a2-b454-ad8e73a3d937",
-      "tresc" : "zmielic mieso i ulepic kotlety"
-    }
-  },
-  "oceny" : {
-    "id" : {
-      "pizza americano" : " podoba sie",
-      "pizza calcone" : "nie podoba"
-    },
-    "id2" : {
-      "pizza calzone" : "podoba sie"
+    "ziemniaki" : {
+      "nazwa" : "ziemniaki"
     }
   }
 }
